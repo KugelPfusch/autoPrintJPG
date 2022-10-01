@@ -1,0 +1,22 @@
+{
+  "name": "autoprintimages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "print.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KugelPfusch/autoPrintImages.git"
+  },
+  "author": "KugelPfusch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KugelPfusch/autoPrintImages/issues"
+  },
+  "homepage": "https://github.com/KugelPfusch/autoPrintImages#readme",
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
